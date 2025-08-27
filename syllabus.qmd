@@ -49,12 +49,12 @@ You can learn more about each category [below](#categories).
 
 ### Table of letter grades
 
-| Letter grade | Reading Quizzes          | Unit Problems               | Final Portfolio                         | Midterm and Final | Presentation
-|--------------|--------------------------| ----------------------------|-----------------------------------------|-------------------| ----------------------|
-| D            | Earn 70% of the points   | Complete 5 of 15 problems   | Pass 3 of 5 problems                    | Optional          | Optional (replaces a grade item)
-| C            | Earn 70% of the points   | Complete 8 of 15 problems   | Pass 4 of 5 problems                    | Attempt one       | Optional (replaces a grade item)
-| B            | Earn 70% of the points   | Complete 12 of 15 problems  | Pass all 5 problems                     | Pass one          | Must attempt 1 (replaces a grade item)
-| A            | Earn 70% of the points   | Complete all 15 problems    | Pass all 5 problems, plus at least 1 E  | Pass both         | Must attempt 1 (replaces a grade item)
+| Letter grade | Reading Quizzes          | Unit Problems                   | Midterm and Final                   | Presentation
+|--------------|--------------------------| --------------------------------|-------------------------------------|-------------------| 
+| D            | Earn 70% of the points   | Earn at least 8 Ms or higher    | Attempt both                        | Optional (replaces a grade item)
+| C            | Earn 70% of the points   | Earn at least 12 Ms or higher   | At least one M                      | Optional (replaces a grade item)
+| B            | Earn 70% of the points   | Earn all Ms or higher           | At least an M on both               | Must attempt 1 (replaces a grade item)
+| A            | Earn 70% of the points   | All Ms or higher, at least 3 Es | At least an M on both, plus one E   | Must attempt 1 (replaces a grade item)
 
 : Letter grades {.striped .hover}
 
@@ -68,21 +68,17 @@ You can learn more about each category [below](#categories).
 #### Points
 Reading quizzes will be graded on a points scale: each quiz has 10 problems and each is worth 1 point.
 
-#### Completion
+#### E/M/R/N {#emRn}
+The unit problems, presentations, and the midterm and final will be graded on the following scale:
 
-The portfolio problems for each unit will be graded on completion. You will be able to see the solutions and self-assess your work, but I will look to ensure that a sincere attempt was made on each problem.  
-
-#### E/M/U/N {#emun}
-The individual final portfolio problems, presentations, and the midterm and final will be graded on the following scale:
-
-- E: excellent -- this is a thorough and correct response that demonstrates excellent understanding of the concepts and makes proper use of the mathematical skills expected in this class.
+- E: exceeds expectations -- this is a thorough and correct response that demonstrates excellent understanding of the concepts and makes proper use of the mathematical skills expected in this class.
 - M: meets expectations -- this is a response that demonstrates solid understanding of the concepts but perhaps includes some small mathematical errors or minor conceptual mistakes.
-- U: unsatisfactory / does not meet expectations -- this is an answer that applies the concepts incorrectly, misunderstands the point of the question, does not complete the question, fails to follow instructions, and/or contains significant mathematical errors
+- R: revise and resubmit -- this is an answer that applies the concepts incorrectly, misunderstands the point of the question, does not complete the question, fails to follow instructions, and/or contains significant mathematical errors. 
 - N: no submission -- if you turn nothing in, you will receive an N.
 
-E and M are considered passing grades. To get an A or B in this class, you must achieve some Es (see the [grading scheme](#gradingscheme))
+E and M are considered passing grades. To get an A in this class, you must achieve some Es (see the [grading scheme](#gradingscheme))
 
-U and N are considered failing grades.
+R and N are considered failing grades. Rs can be revised.
 
 :::
 
@@ -92,44 +88,31 @@ U and N are considered failing grades.
 ::: panel-tabset
 #### Reading Quizzes {#reading}
 
-In order to get the most out of class, you need to prepare. We will spend most of our time in class practicing problem solving, and before class you will need to read the appropriate sections of the book and respond to a quiz. Some readings are longer than others (and I've included the page count in the [course schedule](https://docs.google.com/spreadsheets/d/12bIFUWPCjQ1M-Uhela3GO7mmHF07_UZhAoRJAUmq4t4/edit?usp=sharing) so you can be prepared), but every reading quiz is 10 questions.
+In order to get the most out of class, you need to prepare. We will spend most of our time in class practicing problem solving, and before class you will need to read the appropriate sections of the book and respond to a quiz. Some readings are longer than others (and I've included the page count in the course schedule so you can be prepared), but every reading quiz is 10 questions.
 
-Given the purpose of the reading quizzes, I will not offer extensions, except in case of a major medical or family emergency that causes you to miss class.
+Given the purpose of the reading quizzes, I will not offer extensions, except in case of a major medical or family emergency that causes you to miss class. You also can't retake reading quizzes.
 
 #### Unit Problems {#practice}
 
-Each unit (except for the unit on quantum weirdness) will have three problems similar to what we work on in class, but larger in scope and/or difficulty. These problems will be due shortly after the unit is over, and will be graded on completion. 
+Each unit will have three problems similar to what we work on in class, but larger in scope and/or difficulty. These problems will be due shortly after the unit is over, and will be graded on the [EMRN](#emrn) scale. You can redo each unit problem that receives an R grade once, but you must redo it within two weeks of the work being graded.
 
 You may work with classmates on these problems, but please be sure to give credit, which means naming each person you worked with and describing in a sentence or two the contribution they made.
 
 You may request extensions on the unit problems using the [extension form](https://forms.gle/eFx7y7FoSdoukKGC6).
 
-
-#### Final Portfolio {#portfolio}
-
-The idea for this final portfolio assignment is to demonstrate what you have learned in the course and to create something for which you can take ownership and feel proud. We will get a lot of practice with problem solving this semester, and this is a chance to go back and curate some of what you have done. 
-
-The intended audience is a fellow student who had not previously seen the unit questions you have chosen, but is curious to know how to solve them. For example, you could imagine yourself at the beginning of the semester, or a classmate earlier this semester who was unsure how to approach a problem. Would that intended audience be able to understand your approach and your logic? Would they feel empowered to learn based on what you have created for them?
-
-The assignment will involve redoing 5 problems (one from each unit) in a manner that clearly presents the logic and reasoning behind your answers. It will be useful to restate the problem in your own words, clearly identifying known and unknown quantities. You will then want to describe and demonstrate your approach to solving the problem. Once you arrive at an answer, it will also be helpful to reflect on the implications of that answer. This could include a consideration of how the answer depends on certain variables, or how the answer might be different for a slightly different situation.
-
-Each problem is graded on an [E/M/U/N scale](#emun), and an E and M are both considered passing grades.
-
-You may request an extension on the final portfolio using the [extension form](https://forms.gle/eFx7y7FoSdoukKGC6). Please note, however, that deadline cannot be extended beyond the end of final exam period.
-
 #### Tests {#tests}
 
-There will be one midterm, which will be given during class time, and one final, which will be given during the scheduled final exam time. You may bring a double-sided 8.5"x11" sheet of paper with equations and notes - hand-written (please speak to me if you need to type the sheet and we will come up with a plan). This paper will be turned in with your test.
+There will be one midterm, which will be given during class time, and one final, which will be given during the scheduled final exam time. You may bring a single-sided 8.5"x11" sheet of paper with equations and notes - hand-written (please speak to me if you need to type the sheet and we will come up with a plan). This paper will be turned in with your test. I will also include useful functions, integrals, trig identities, and basic equations on each test.
 
-These are graded on an [E/M/U/N scale](#emun). 
+These are graded on an [E/M/R/N scale](#emrn). The midterm can be retaken once during the specified in-class retake time. The final cannot be retaken.
 
 #### Presentations {#presentations}
 
-After every unit, you will have a chance to present one of the problems to the class in a group of up to three. You should teach the problem in a step-by-step way -- you can skip some algebra but should not skip any conceptual steps, you should explain your reasoning for each step, and you should idenitify and resolve at least one common challenge or misconception that can arise when solving the problem. 
+After every unit, you will have a chance to present one of the problems to the class in a group of up to two You should teach the problem in a step-by-step way -- you can skip some algebra but should not skip any conceptual steps, you should explain your reasoning for each step, and you should identify and resolve at least one common challenge or misconception that can arise when solving the problem. 
 
 You will be graded on the correctness and completeness of the solution, clarity of your explanation, soundness of your reasoning, and resolution of the common challenge.
 
-These are graded on an [E/M/U/N scale](#emun), and you may use your presentation score to replace one of the following:
+These are graded on an [E/M/R/N scale](#emun), and you may use your presentation score to replace one of the following:
 
 - your reading quiz score for the semester (an M or higher gives you full credit)
 - one unit worth of problems (an M or higher gives you full credit for one unit's problems)
@@ -138,9 +121,9 @@ These are graded on an [E/M/U/N scale](#emun), and you may use your presentation
 
 I will always replace the grade item that most benefits you, and will never replace a better score with a worse one. The Presentations can only help you.
 
-Since the presentations are scheduled for specific days, you cannot request an extension.
+Since the presentations are scheduled for specific days, you cannot request an extension, and you can't re-do them. But there are enough problems that there will be more than one opportunity to do a presentation.
 
-If you want to get a B or higher in the class, you have to at least try a presentation. Given the limitations on time, you may not be able to do more than one -- I will prioritize students who have not yet done a presentation on the sign-up sheet.
+If you want to get a B or higher in the class, you have to at least try a presentation. I will prioritize students who have not yet done a presentation on the sign-up sheet, but there should be a chance to present twice for everyone who wants to.
 
 :::
 

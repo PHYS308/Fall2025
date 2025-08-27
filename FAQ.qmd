@@ -15,7 +15,7 @@ editor: source
 ## When and where is class?
 
 -   When: Monday, Wednesday, and Friday, 1:10PM-2:30PM
--   Where: Carnegie 225
+-   Where: Carnegie 321
 
 ## Where do I get my textbook?
 
@@ -27,11 +27,10 @@ To find the library copies, go to [librarysearch.bates.edu](librarysearch.bates.
 
 ## When are your office hours? {#officehours}
 
-Office hours:
+Office hours: I will schedule office hours for the semester after the first week of class. You can also make a one-on-one meeting in calendly (see Lyceum for the scheuling link)
 
--   Mondays 11AM-12PM in my research space
--   Wednesdays 4PM-5PM (right after class) in Carnegie 339
--   Thursdays 1:30PM-2:30PM in my research space
+Scheduled office hours:
+-   TBD
 
 If you schedule a one-on-one meeting, it will be in my office. The location of my office and my research space are both in Lyceum.
 
@@ -47,7 +46,7 @@ If you are enrolled in the class but do not have access to Lyceum, please let me
 
 ## When is \_\_ due? {#duedates}
 
-You can find all due dates on the [course schedule](https://docs.google.com/spreadsheets/d/12bIFUWPCjQ1M-Uhela3GO7mmHF07_UZhAoRJAUmq4t4/edit?usp=sharing). Dates are subject to change, but will always be kept up to date on the schedule so check back if you're not sure.
+You can find all due dates on the [course schedule](https://docs.google.com/spreadsheets/d/1WSfqzEid6FNP2gU9IxSRevs8xZCfJwVTyFKLxOE0LwE/edit?usp=sharing). Dates are subject to change, but will always be kept up to date on the schedule so check back if you're not sure.
 
 ## Can I have an extension? {#extensionpolicy}
 
@@ -61,7 +60,11 @@ For more on my deadlines and extension policy, see the [syllabus](syllabus.qmd#d
 
 Timely communication is really important, but in order to be an effective instructor and a well-adjusted human, I also need to be able to take breaks from email.
 
-If you email me on a weekday, you can expect a response from me within 24 hours. If you email me on a weekend or a holiday, you can expect a response from me by class time on the first day back.
+If you email me on a weekday, you can expect a response from me within 48 hours. If you email me on a weekend or a holiday, you can expect a response from me by class time on the first day back.
+
+## Can I re-do something I did poorly on? {#revisionpolicy}
+
+Homework and the midterm can both be revised (or retaken, in the case of the midterm) once. Reading quizzes and the final can't be re-done, but I do look for consistent improvement and take that into account with the growth round-up. I also am happy to talk to you about these grades if there are extenuating circumstances. If you think this applies to you, schedule a one-on-one meeting with me on calendly and we can talk about what is possible and reasonable.
 
 ## Do you grade on a curve? {#gradingcurve}
 
@@ -71,9 +74,9 @@ Grades are not curved; your grade depends only on your own performance, supporti
 
 Large Language Models (LLMs) are likely here to stay. Banning them from the classroom is both pointless and actively unhelpful. If you are going to use ChatGPT or a similar LLM in this class, I only require two things:
 
-1.  That you do a little reading on Large Language Models. Specifically, read [this article about how LLMs actually work](https://stackoverflow.blog/2023/07/03/do-large-language-models-know-what-they-are-talking-about/) and [this article about the ethical considerations around LLMs](https://montrealethics.ai/what-lies-behind-agi-ethical-concerns-related-to-llms/)
+1.    That you do a little reading on Large Language Models. Specifically, read [this article about how LLMs actually work](https://stackoverflow.blog/2023/07/03/do-large-language-models-know-what-they-are-talking-about/) and [this article about the ethical considerations around LLMs](https://montrealethics.ai/what-lies-behind-agi-ethical-concerns-related-to-llms/)
 
-2.  That you consider ChatGPT a source that you must cite. If you use ChatGPT or another LLM to help with any assignment, you **must** acknowledge that help and give a short (one-sentence) description of what the LLM did for you and how it helped you solve the problem.
+2.    That you consider ChatGPT - or any other LLM -a source that you must cite. If you an LLM to help with any assignment, you **must** acknowledge that help and give a short (one-sentence) description of what the LLM did for you and how it helped you solve the problem.
 
 Remember that LLMs are designed to predict the most probable response to a question, which is not always the best or even correct response. They are prone to "hallucinating" (making stuff up, often in a way that is convincing but still false). They can't do creative problem solving, which is the most important skill we are teaching in this class.
 
