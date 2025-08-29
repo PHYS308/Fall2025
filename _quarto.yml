@@ -43,5 +43,3 @@ format:
   html:
     theme: bates_yeti.scss
     toc: true
-
-

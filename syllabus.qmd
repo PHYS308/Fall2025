@@ -49,7 +49,7 @@ You can learn more about each category [below](#categories).
 
 ### Table of letter grades
 
-| Letter grade | Reading Quizzes          | Unit Problems                   | Midterm and Final                   | Presentation
+| Letter grade | Reading Quizzes          | Unit Problems                   | Portfolio                   | Midterm and Final                   | Presentation
 |--------------|--------------------------| --------------------------------|-------------------------------------|-------------------| 
 | D            | Earn 70% of the points   | Earn at least 8 Ms or higher    | Attempt both                        | Optional (replaces a grade item)
 | C            | Earn 70% of the points   | Earn at least 12 Ms or higher   | At least one M                      | Optional (replaces a grade item)
@@ -142,14 +142,6 @@ If you earn more than one E on your final portfolio, you will get a grade round-
 
 If you demonstrate consistent improvement in your work across the semester, I reserve the right to round your grade up.
 
-#### Self-Assessment Boost
-
-If you earn a U on the midterm, you can correct your work for a grade round-up. To do this you must:
-
-  - Re-solve the midterm (the whole problem) from scratch
-  - Compare any places where your new work is different from your previous work and explain in writing the mistakes you made and the outcomes
-  - Email me your write-up
-  - Schedule a 15 minute meeting with me to talk over your write-up (the write-up needs to be submitted at least 24 hours in advance of this meeting)
 :::
 
 ## Deadlines and Extensions {#deadlines}
